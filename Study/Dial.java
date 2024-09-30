@@ -1,4 +1,4 @@
-package StudyPerson;
+package Study;
 
 public class Dial {
 
